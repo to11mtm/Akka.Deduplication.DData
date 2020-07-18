@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.Deduplication.DData", "Akka.Deduplication.DData\Akka.Deduplication.DData.csproj", "{1C5F9E0C-C006-481C-857B-F1FF4890B4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.Deduplication.DData.Tests", "Akka.Deduplication.DData.Tests\Akka.Deduplication.DData.Tests.csproj", "{3FF61496-42AA-474A-916F-1663E0D52D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5F9E0C-C006-481C-857B-F1FF4890B4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5F9E0C-C006-481C-857B-F1FF4890B4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5F9E0C-C006-481C-857B-F1FF4890B4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5F9E0C-C006-481C-857B-F1FF4890B4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF61496-42AA-474A-916F-1663E0D52D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF61496-42AA-474A-916F-1663E0D52D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF61496-42AA-474A-916F-1663E0D52D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF61496-42AA-474A-916F-1663E0D52D66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
